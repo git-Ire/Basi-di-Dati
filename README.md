@@ -1,5 +1,5 @@
 # Basi-di-Dati
-Progetto universitario per il corso Basi di Dati 2020-2021      
+Progetto universitario per il corso Basi di Dati 2020-2021   Valutazione 27 / 30   
 Agenzia viaggi "Girovagando"
 
 Studio e analisi per la creazione di un database dalla progettazione concettuale con schema E-R all'implementazione in codice SQL dello schema logico.
